@@ -4,7 +4,7 @@
       <div class="auth-card card" style="margin: 0 auto;">
         <div style="margin-bottom:1.5rem">
           <h1 class="auth-title">Create an account</h1>
-          <p class="auth-sub">Join nStore HR management system.</p>
+          <p class="auth-sub">Join RBAC - CRUDAPP.</p>
         </div>
 
         <div v-if="error" class="alert alert-error">{{ error }}</div>

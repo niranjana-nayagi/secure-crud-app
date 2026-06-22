@@ -3,7 +3,7 @@
     <div class="container">
       <div class="auth-card card" style="margin: 0 auto;">
         <div style="margin-bottom:1.5rem">
-          <h1 class="auth-title">Sign in to nStore HR</h1>
+          <h1 class="auth-title">Sign in to RBAC - CRUDAPP</h1>
           <p class="auth-sub">Choose your role and enter your credentials.</p>
         </div>
 

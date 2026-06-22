@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar">
     <div class="container navbar-inner">
-      <router-link class="navbar-brand" :to="homeLink">🏪 nStore HR</router-link>
+      <router-link class="navbar-brand" :to="homeLink">RBAC - CRUDAPP</router-link>
       <div class="navbar-links" v-if="user">
         <router-link v-if="user.role === 'admin'" to="/dashboard" class="nav-link">Employees</router-link>
         <router-link to="/products" class="nav-link">Products</router-link>
